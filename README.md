@@ -1,4 +1,5 @@
-<img width="1080" height="2408" alt="Screenshot_20260707_212635" src="https://github.com/user-attachments/assets/1ecce540-2793-4650-9f8b-f380cf2cf440" />
+<img width="1080" height="2010" alt="Screenshot_20260708_101158" src="https://github.com/user-attachments/assets/c5cf3f44-e355-4462-b08c-4d974e06a962" />
+<img width="1080" height="1062" alt="Screenshot_20260708_101136" src="https://github.com/user-attachments/assets/a749ed79-7e31-4621-9d46-d801c65c0833" />
 # Meko Server
 
 ![Discord Badge](https://img.shields.io/discord/YOUR_SERVER_ID?logo=discord&logoColor=white&label=Discord&color=7289DA)
