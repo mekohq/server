@@ -1,3 +1,4 @@
+<img width="1080" height="2408" alt="Screenshot_20260707_212635" src="https://github.com/user-attachments/assets/1ecce540-2793-4650-9f8b-f380cf2cf440" />
 # Meko Server
 
 ![Discord Badge](https://img.shields.io/discord/YOUR_SERVER_ID?logo=discord&logoColor=white&label=Discord&color=7289DA)
