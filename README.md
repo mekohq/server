@@ -46,17 +46,7 @@
 
 ---
 
-## 📸 Gallery & Interactive Demo
-
-### 🎬 Main Showcase - WildWood Server Invite
-
-<div align="center">
-  <img width="1080" height="1062" alt="WildWood Community Invite Screen" src="https://github.com/user-attachments/assets/a749ed79-7e31-4621-9d46-d801c65c0833" />
-  
-  **Your first glimpse of WildWood Community!**
-  
-  ✨ Smooth transitions • 🎨 Beautiful design • 🌟 Welcoming experience
-</div>
+## 📸 Gallery & Screenshots
 
 ### 🗺️ Server Navigation & Channels
 
@@ -137,17 +127,13 @@
 
 ---
 
-## 🎬 Server Tour - JOIN LIVE!
+## 🎬 Join Our Community
 
 <div align="center">
 
 ### Experience WildWood in Real-Time!
 
 [![Discord Server](https://img.shields.io/badge/🔗%20Discord%20Server-Join%20Now-%237289DA?logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/XrNUAP2ApR)
-
-### or click below:
-
-**[👉 Join Discord Server 👈](https://discord.gg/XrNUAP2ApR)**
 
 </div>
 
@@ -269,12 +255,6 @@ MIT License - See [LICENSE](./LICENSE) file for details.
 🌲🌲🌲 WILDWOOD COMMUNITY 🌲🌲🌲
     Growing Every Day ✨
 ```
-
-</div>
-
----
-
-<div align="center">
 
 **⭐ If you like this project, please star it! ⭐**
 
