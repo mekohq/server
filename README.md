@@ -1,5 +1,5 @@
 <img width="1080" height="1062" alt="Screenshot_20260708_101136" src="https://github.com/user-attachments/assets/a749ed79-7e31-4621-9d46-d801c65c0833" />
-# Meko Server
+# WildWood Community Server
 
 ![Discord Badge](https://img.shields.io/discord/YOUR_SERVER_ID?logo=discord&logoColor=white&label=Discord&color=7289DA)
 ![License](https://img.shields.io/badge/license-MIT-green)
