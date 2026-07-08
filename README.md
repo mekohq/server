@@ -1,4 +1,3 @@
-<img width="1080" height="2010" alt="Screenshot_20260708_101158" src="https://github.com/user-attachments/assets/c5cf3f44-e355-4462-b08c-4d974e06a962" />
 <img width="1080" height="1062" alt="Screenshot_20260708_101136" src="https://github.com/user-attachments/assets/a749ed79-7e31-4621-9d46-d801c65c0833" />
 # Meko Server
 
@@ -18,6 +17,7 @@
 - **Job System** - In-game economy and progression
 - **Social Features** - Connect and collaborate
 - **Channel Organization** - Organized communication
+<img width="1080" height="2010" alt="Screenshot_20260708_101158" src="https://github.com/user-attachments/assets/c5cf3f44-e355-4462-b08c-4d974e06a962" />
 
 ## 📸 Gallery & Demo
 
