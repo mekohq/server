@@ -1,107 +1,188 @@
 # WildWood Community Server
 
-<img width="1080" height="1062" alt="WildWood Community Invite" src="https://github.com/user-attachments/assets/a749ed79-7e31-4621-9d46-d801c65c0833" />
+<div align="center">
+  <img width="1080" height="1062" alt="WildWood Community Invite" src="https://github.com/user-attachments/assets/a749ed79-7e31-4621-9d46-d801c65c0833" />
+</div>
 
 ![Discord Badge](https://img.shields.io/discord/YOUR_SERVER_ID?logo=discord&logoColor=white&label=Discord&color=7289DA)
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Status](https://img.shields.io/badge/status-Active-brightgreen)
+![Members](https://img.shields.io/badge/Members-30-blue)
 
 > A powerful and scalable Discord server with community-driven features, role management, leveling system, and economy mechanics.
 
+---
+
+## 🎨 Animated Hero Section
+
+<div align="center">
+  
+  ```
+  ╔═══════════════════════════════════════════╗
+  ║                                           ║
+  ║    🌲 WILDWOOD COMMUNITY 🌲              ║
+  ║                                           ║
+  ║    ✨ Growing • Active • Engaging ✨      ║
+  ║                                           ║
+  ║    21 Online 👥 | 30 Members 🎭           ║
+  ║                                           ║
+  ╚═══════════════════════════════════════════╝
+  ```
+
+</div>
+
+---
+
 ## 🚀 Features
 
-- **High-performance architecture** - Optimized for speed and reliability
-- **Scalable infrastructure** - Grow without limits
-- **Community-driven** - Built with user feedback
-- **Role Management System** - Flexible permission and role system
-- **Leaderboards & Ranking** - Gamification features
-- **Job System** - In-game economy and progression
-- **Social Features** - Connect and collaborate
-- **Channel Organization** - Organized communication
+- ⚡ **High-performance architecture** - Optimized for speed and reliability
+- 📈 **Scalable infrastructure** - Grow without limits
+- 👥 **Community-driven** - Built with user feedback
+- 🎭 **Role Management System** - Flexible permission and role system
+- 🏆 **Leaderboards & Ranking** - Gamification features
+- 💼 **Job System** - In-game economy and progression
+- 💬 **Social Features** - Connect and collaborate
+- 📋 **Channel Organization** - Organized communication
 
-## 📸 Gallery & Demo
+---
 
-### Server Showcase
+## 📸 Gallery & Interactive Demo
 
-#### Community Dashboard
-<img width="1080" height="2010" alt="WildWood Server Channels" src="https://github.com/user-attachments/assets/c5cf3f44-e355-4462-b08c-4d974e06a962" />
+### 🎬 Main Showcase - WildWood Server Invite
 
-*WildWood Community featuring:*
-- 21 Online members actively participating
-- 30 Total members in the community
-- Multiple organized channels
-- Role-based access system
+<div align="center">
+  <img width="1080" height="1062" alt="WildWood Community Invite Screen" src="https://github.com/user-attachments/assets/a749ed79-7e31-4621-9d46-d801c65c0833" />
+  
+  **Your first glimpse of WildWood Community!**
+  
+  ✨ Smooth transitions • 🎨 Beautiful design • 🌟 Welcoming experience
+</div>
 
-### 🎬 Server Tour
+### 🗺️ Server Navigation & Channels
 
-To see the full server tour and features in action, join our Discord community and explore the channels:
+<div align="center">
+  <img width="1080" height="2010" alt="WildWood Server Channels" src="https://github.com/user-attachments/assets/c5cf3f44-e355-4462-b08c-4d974e06a962" />
+  
+  **Explore all channels and categories**
+  
+  Organized channels for every purpose • Easy navigation • Role-based access
+</div>
 
-[![Discord Server](https://img.shields.io/badge/Discord%20Server-Join%20Now-%237289DA?logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/XrNUAP2ApR)
+---
 
-**[➜ Join Discord Server](https://discord.gg/XrNUAP2ApR)**
+## 🏆 Live Server Statistics
 
-## 🏆 Key Stats
+<div align="center">
 
-- **21 Online Members** - Active community right now
-- **30 Total Members** - Growing community
-- **Multiple Categories** - Organized by function
-- **0/36 Boosts** - Help us reach the next level!
+| Metric | Value |
+|--------|-------|
+| 🟢 **Online Members** | 21 |
+| 👥 **Total Members** | 30 |
+| 📊 **Categories** | Multiple |
+| 🎯 **Server Boosts** | 0/36 |
+| ⭐ **New Member Role** | Newbie |
 
-## 📚 Server Channels
+</div>
 
-### Main Channels
-- `#get-roles` - Self-assign your roles
-- `#level` - Level up and progress
-- `#leaderboard` - Check rankings
-- `#welcome` - New member introduction
-- `#set-birthday` - Birthday announcements
-- `#goodbye` - Member farewell
+---
 
-### Jobs Category
-- `#work` - Find work opportunities
-- `#crime` - Risk/reward activities
-- `#rob` - High-risk operations
-- `#bank` - Financial services
+## 📚 Server Channels Map
 
-### Social
-- Direct messaging with community members
-- User profiles with custom status
+```
+🌲 WILDWOOD COMMUNITY
+│
+├── 📌 MAIN
+│   ├── #get-roles          (Self-assign roles)
+│   ├── #level              (Check your level)
+│   ├── #leaderboard        (Rankings)
+│   ├── #welcome            (Join here)
+│   ├── #set-birthday       (Birthday wishes)
+│   └── #goodbye            (Farewells)
+│
+├── 💼 JOBS
+│   ├── #work               (Honest jobs)
+│   ├── #crime              (Risky business)
+│   ├── #rob                (High risk)
+│   └── #bank               (Economy)
+│
+└── 👥 SOCIAL
+    └── Direct Messages     (Connect with members)
+```
 
-## 🛠️ Tech Stack
-
-- **Bot Framework**: Discord.js
-- **Backend**: Node.js
-- **Database**: MongoDB / Firebase
-- **Deployment**: Cloud-based hosting
-- **API Integration**: Discord API
+---
 
 ## 🎮 Game Features
 
-### Leveling System
-- Gain XP through chat activity
-- Unlock rewards at each level
-- Compete on the leaderboard
+### 🎯 Leveling System
+```
+🌟 Progressive Experience
+  Level 1  ▓░░░░░░░░░ → Unlock roles
+  Level 5  ▓▓▓▓░░░░░░ → Earn rewards
+  Level 10 ▓▓▓▓▓▓▓░░░ → Special badge
+  Level ∞  ▓▓▓▓▓▓▓▓▓▓ → Leaderboard fame
+```
 
-### Economy System
-- Jobs to earn currency
-- Risk/reward activities
-- Bank for storing wealth
+### 💰 Economy System
+```
+💼 Work      → $100-500    ☀️
+⚠️ Crime     → $500-2000   ⚠️ (Risky)
+🏦 Rob       → $1000+      💀 (Very Risky)
+🏛️ Bank      → Safe storage 🔐
+```
 
-### Social System
-- User profiles
-- Birthday celebrations
-- Custom statuses
+### 👤 Social System
+- User profiles with custom status
+- Birthday celebrations 🎂
+- Personalized interactions 💬
+
+---
+
+## 🎬 Server Tour - JOIN LIVE!
+
+<div align="center">
+
+### Experience WildWood in Real-Time!
+
+[![Discord Server](https://img.shields.io/badge/🔗%20Discord%20Server-Join%20Now-%237289DA?logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/XrNUAP2ApR)
+
+### or click below:
+
+**[👉 Join Discord Server 👈](https://discord.gg/XrNUAP2ApR)**
+
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+| Layer | Technology |
+|-------|------------|
+| 🤖 **Bot Framework** | Discord.js |
+| 🖥️ **Backend** | Node.js |
+| 💾 **Database** | MongoDB / Firebase |
+| ☁️ **Deployment** | Cloud-based hosting |
+| 🔌 **API** | Discord API |
+
+</div>
+
+---
 
 ## 📖 Documentation
 
 For detailed documentation, visit our [docs](./docs) folder or check out our community resources.
 
+---
+
 ## 📝 Installation & Setup
 
 ### Prerequisites
-- Node.js v14+
-- npm or yarn
-- Discord Account
+```bash
+✓ Node.js v14+
+✓ npm or yarn
+✓ Discord Account
+```
 
 ### Get Started
 
@@ -120,56 +201,81 @@ cp .env.example .env
 npm start
 ```
 
-## 🤖 Usage Examples
+---
+
+## 🤖 Commands & Usage
 
 ```javascript
-// Get your role in the server
-/get-roles
-
-// Check your level
-/level
-
-// View leaderboard
-/leaderboard
-
-// Set your birthday
-/set-birthday [date]
-
-// Find work
-/work
-
-// Check bank balance
-/bank balance
+/get-roles      → Get your roles
+/level          → Check your level & XP
+/leaderboard    → View rankings
+/set-birthday   → Set your birthday
+/work           → Find work
+/bank balance   → Check wallet
 ```
-
-## 🤝 Contributing
-
-We welcome contributions! Please see [CONTRIBUTING.md](./CONTRIBUTING.md) for details on:
-- Code standards
-- Pull request process
-- Reporting bugs
-- Suggesting features
-
-## 📄 License
-
-This project is licensed under the MIT License - see [LICENSE](./LICENSE) file for details.
-
-## 🌐 Community Links
-
-- **[Discord Server](https://discord.gg/XrNUAP2ApR)** - Join our community
-- **[Issues](https://github.com/mekohq/server/issues)** - Report bugs or request features
-- **[Discussions](https://github.com/mekohq/server/discussions)** - Community discussions
-- **[Wiki](https://github.com/mekohq/server/wiki)** - Guides and FAQ
-
-## 💬 Support
-
-Have questions? Need help?
-1. Check our [FAQ](./FAQ.md)
-2. Ask in Discord `#help` channel
-3. Open a GitHub issue
 
 ---
 
-**Made with ❤️ by the Meko team**
+## 🤝 Contributing
+
+We welcome contributions! See [CONTRIBUTING.md](./CONTRIBUTING.md) for:
+- Code standards
+- Pull request process
+- Reporting bugs
+- Feature requests
+
+---
+
+## 📄 License
+
+MIT License - See [LICENSE](./LICENSE) file for details.
+
+---
+
+## 🌐 Quick Links
+
+<div align="center">
+
+| Link | Purpose |
+|------|---------|
+| 🔗 [Discord Server](https://discord.gg/XrNUAP2ApR) | Main Community |
+| 🐛 [Issues](https://github.com/mekohq/server/issues) | Report Bugs |
+| 💭 [Discussions](https://github.com/mekohq/server/discussions) | Chat & Ideas |
+| 📖 [Wiki](https://github.com/mekohq/server/wiki) | Guides & FAQ |
+
+</div>
+
+---
+
+## 💬 Need Help?
+
+<div align="center">
+
+1️⃣ Check our [FAQ](./FAQ.md)  
+2️⃣ Ask in Discord `#help` channel  
+3️⃣ Open a [GitHub Issue](https://github.com/mekohq/server/issues)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🌟 Made with ❤️ by the Meko team 🌟
 
 **Currently Active**: 21 members online | **Total Community**: 30 members
+
+```
+🌲🌲🌲 WILDWOOD COMMUNITY 🌲🌲🌲
+    Growing Every Day ✨
+```
+
+</div>
+
+---
+
+<div align="center">
+
+**⭐ If you like this project, please star it! ⭐**
+
+</div>
