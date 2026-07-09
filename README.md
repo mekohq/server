@@ -46,6 +46,22 @@
 
 ---
 
+## 🎬 Video Tour
+
+<div align="center">
+
+### Watch Our Latest Server Showcase! 🎥
+
+[![YouTube Video](https://img.shields.io/badge/▶️%20YouTube-Watch%20Video-FF0000?style=for-the-badge&logo=youtube)](https://youtube.com/shorts/cuK7OZ5nOmQ?si=GdTa9ce1AYaYXIux)
+
+**[👉 Watch on YouTube 👈](https://youtube.com/shorts/cuK7OZ5nOmQ?si=GdTa9ce1AYaYXIux)**
+
+See our server in action with smooth transitions and all the amazing features!
+
+</div>
+
+---
+
 ## 📸 Gallery & Screenshots
 
 ### 🗺️ Server Navigation & Channels
@@ -127,7 +143,7 @@
 
 ---
 
-## 🎬 Join Our Community
+## 🎪 Join Our Community
 
 <div align="center">
 
@@ -225,6 +241,7 @@ MIT License - See [LICENSE](./LICENSE) file for details.
 | Link | Purpose |
 |------|---------|
 | 🔗 [Discord Server](https://discord.gg/XrNUAP2ApR) | Main Community |
+| 📺 [YouTube Video](https://youtube.com/shorts/cuK7OZ5nOmQ?si=GdTa9ce1AYaYXIux) | Server Showcase |
 | 🐛 [Issues](https://github.com/mekohq/server/issues) | Report Bugs |
 | 💭 [Discussions](https://github.com/mekohq/server/discussions) | Chat & Ideas |
 | 📖 [Wiki](https://github.com/mekohq/server/wiki) | Guides & FAQ |
