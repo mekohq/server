@@ -1,0 +1,282 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>WildWood Community - Server Tour</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            padding: 20px;
+        }
+
+        .container {
+            max-width: 900px;
+            width: 100%;
+            background: white;
+            border-radius: 20px;
+            box-shadow: 0 20px 60px rgba(0, 0, 0, 0.3);
+            overflow: hidden;
+            animation: slideIn 0.6s ease-out;
+        }
+
+        @keyframes slideIn {
+            from {
+                opacity: 0;
+                transform: translateY(30px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        .header {
+            background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
+            color: white;
+            padding: 40px 20px;
+            text-align: center;
+        }
+
+        .header h1 {
+            font-size: 2.5em;
+            margin-bottom: 10px;
+            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+        }
+
+        .header p {
+            font-size: 1.1em;
+            opacity: 0.9;
+        }
+
+        .video-container {
+            position: relative;
+            width: 100%;
+            padding-bottom: 56.25%;
+            height: 0;
+            overflow: hidden;
+            background: #000;
+        }
+
+        .video-container iframe {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            border: none;
+        }
+
+        .content {
+            padding: 40px;
+        }
+
+        .content h2 {
+            color: #1a1a2e;
+            margin-bottom: 15px;
+            font-size: 1.8em;
+        }
+
+        .content p {
+            color: #555;
+            line-height: 1.6;
+            margin-bottom: 15px;
+            font-size: 1.05em;
+        }
+
+        .features {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 20px;
+            margin: 30px 0;
+        }
+
+        .feature {
+            background: #f8f9fa;
+            padding: 20px;
+            border-radius: 10px;
+            border-left: 4px solid #667eea;
+            transition: transform 0.3s ease;
+        }
+
+        .feature:hover {
+            transform: translateY(-5px);
+        }
+
+        .feature h3 {
+            color: #667eea;
+            margin-bottom: 10px;
+        }
+
+        .feature p {
+            color: #666;
+            font-size: 0.95em;
+            margin: 0;
+        }
+
+        .buttons {
+            display: flex;
+            gap: 15px;
+            margin-top: 30px;
+            flex-wrap: wrap;
+        }
+
+        .btn {
+            padding: 12px 25px;
+            border: none;
+            border-radius: 8px;
+            font-size: 1em;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            text-decoration: none;
+            display: inline-block;
+            text-align: center;
+        }
+
+        .btn-primary {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+        }
+
+        .btn-primary:hover {
+            transform: scale(1.05);
+            box-shadow: 0 10px 25px rgba(102, 126, 234, 0.4);
+        }
+
+        .btn-secondary {
+            background: white;
+            color: #667eea;
+            border: 2px solid #667eea;
+        }
+
+        .btn-secondary:hover {
+            background: #667eea;
+            color: white;
+        }
+
+        .footer {
+            background: #f8f9fa;
+            padding: 30px;
+            text-align: center;
+            border-top: 1px solid #eee;
+        }
+
+        .footer p {
+            color: #666;
+            margin: 0;
+        }
+
+        .emoji {
+            font-size: 2em;
+            display: inline-block;
+            margin-bottom: 10px;
+        }
+
+        @media (max-width: 768px) {
+            .header h1 {
+                font-size: 1.8em;
+            }
+
+            .content {
+                padding: 25px;
+            }
+
+            .buttons {
+                flex-direction: column;
+            }
+
+            .btn {
+                width: 100%;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <!-- Header -->
+        <div class="header">
+            <h1>🌲 WildWood Community 🌲</h1>
+            <p>Server Tour & Tutorial</p>
+        </div>
+
+        <!-- Video Container -->
+        <div class="video-container">
+            <iframe 
+                src="https://www.youtube.com/embed/cuK7OZ5nOmQ?si=GdTa9ce1AYaYXIux&autoplay=1&mute=1" 
+                title="WildWood Community Server Tour" 
+                allowfullscreen="" 
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+                referrerpolicy="no-referrer-when-downgrade">
+            </iframe>
+        </div>
+
+        <!-- Content -->
+        <div class="content">
+            <h2>✨ Welcome to WildWood Community</h2>
+            <p>
+                Watch this video tour to see everything our Discord server has to offer! 
+                Get a complete walkthrough of all channels, features, and community highlights.
+            </p>
+
+            <h2>🎮 What You'll See</h2>
+            <div class="features">
+                <div class="feature">
+                    <h3>🎯 Leveling System</h3>
+                    <p>Progressive XP tracking and rank advancement</p>
+                </div>
+                <div class="feature">
+                    <h3>💼 Job System</h3>
+                    <p>Earn currency through various job categories</p>
+                </div>
+                <div class="feature">
+                    <h3>🏆 Leaderboards</h3>
+                    <p>Compete with community members</p>
+                </div>
+                <div class="feature">
+                    <h3>💬 Social Features</h3>
+                    <p>Connect and celebrate with 30+ members</p>
+                </div>
+                <div class="feature">
+                    <h3>🎭 Role Management</h3>
+                    <p>Flexible permission and role system</p>
+                </div>
+                <div class="feature">
+                    <h3>🎂 Events</h3>
+                    <p>Birthday celebrations and community moments</p>
+                </div>
+            </div>
+
+            <h2>📊 Current Stats</h2>
+            <p>
+                <strong>21 Members Online</strong> • <strong>30 Total Members</strong> • 
+                <strong>Multiple Channels</strong> • <strong>Growing Daily</strong>
+            </p>
+
+            <div class="buttons">
+                <a href="https://discord.gg/XrNUAP2ApR" class="btn btn-primary">
+                    🔗 Join Discord Server
+                </a>
+                <a href="https://github.com/mekohq/server" class="btn btn-secondary">
+                    📖 View on GitHub
+                </a>
+            </div>
+        </div>
+
+        <!-- Footer -->
+        <div class="footer">
+            <p>🌲 Made with ❤️ by the Meko team | WildWood Community © 2024</p>
+        </div>
+    </div>
+</body>
+</html>
